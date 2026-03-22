@@ -6,7 +6,7 @@ const https = require('https');
 // ══════════════════════════════
 //  🔑 APNI API KEY YAHAN DALO
 // ══════════════════════════════
-const ANTHROPIC_API_KEY = 'sk-ant-YAHAN-APNI-KEY-DALO';
+const ANTHROPIC_API_KEY = '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';
 // ══════════════════════════════
 
 const PORT = 3000;
